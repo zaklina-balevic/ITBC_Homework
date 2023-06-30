@@ -1,6 +1,6 @@
 # ITBC_Homework
 
-These units represent the tasks and homework completed during the 11-week ITBootCamp course, providing practical experience in software testing and quality assurance.
+These units represent the tasks and homework completed during the 11-week ITBootcamp course, providing practical experience in software testing and quality assurance.
 
 # Manual Testing
 Topics: Introduction to manual testing, test case design, test execution, and defect reporting.
